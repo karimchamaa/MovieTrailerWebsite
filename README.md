@@ -1,2 +1,2 @@
 # MovieTrailerWebsite
-IPND Project 4
+Udacity IPND Project 4
